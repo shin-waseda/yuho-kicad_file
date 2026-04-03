@@ -1,0 +1,4 @@
+(design_block_lib_table
+  (version 7)
+  (lib (name "Fusoku.pretty")(type "KiCad")(uri "${KIPRJMOD}/Fusoku.pretty")(options "")(descr ""))
+)
