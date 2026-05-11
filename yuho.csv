@@ -1,37 +1,41 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"BAT1","1","Conn_01x02","","","","Connector_PinSocket_2.00mm:PinSocket_2x01_P2.00mm_Vertical","~"
-"C1,C8,C10","3","10μ","","","","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
-"C2,C5,C9,C11,C12,C16,C18,C20,C21,C22,C23,C24","12","0.1μ","","","","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
-"C3","1","0.33μ","","","","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
-"C4,C6,C13,C14","4","2.2μ","","","","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
-"C7","1","10n","","","","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
-"C15","1","100μ","","","","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
-"C19","1","1μ","","","","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
-"C25","1","4.7μ","","","","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
-"D1,D2,D3,D4","4","SFH4550","","","","LED_THT:LED_D5.0mm_IRGrey","http://www.osram-os.com/Graphics/XPic3/00116140_0.pdf"
-"D5,D7,D8,D9,D10,D11,D12,D16,D17,D18,D19,D20,D21,D22,D23","15","LED","","","","LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
-"D6,D13","2","MBR130LSFT1G","","","","Diode_SMD:D_SOD-123F","~"
-"J1","1","Conn_02x05_Odd_Even","","","","Connector_PinSocket_1.27mm:PinSocket_2x05_P1.27mm_Vertical_SMD","~"
-"J3","1","47219-2001","","","","Connector_Card:microSD_HC_Molex_47219-2001","https://www.we-online.com/components/products/datasheet/693072010801.pdf"
-"J_L1,J_R1","2","Conn_02x03_Odd_Even","","","","Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical","~"
-"LS1","1","SMT-0540-S-R","","","","Fusoku:XDCR_SMT-0540-S-R","~"
-"M1","1","8520モータ","","","","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~"
-"Q1,Q3,Q5,Q7,Q10","5","2N7002K","","","","Package_TO_SOT_SMD:SOT-23","https://www.diodes.com/assets/Datasheets/ds30896.pdf"
-"Q2,Q4,Q6,Q8","4","ST-1KL3A","","","","LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear","~"
-"Q9","1","IRLML6402","","","","Package_TO_SOT_SMD:SOT-23","https://www.infineon.com/dgdl/irlml6402pbf.pdf?fileId=5546d462533600a401535668d5c2263c"
-"Q11","1","SSM3K344R","","","","Fusoku:2SC2712GRLF","https://www.diodes.com/assets/Datasheets/ds30896.pdf"
-"R1,R6,R9,R12,R20,R21,R22,R23,R24,R25,R26,R33,R34,R35,R36,R43,R44,R45,R46","19","560","","","","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~"
-"R2,R4,R7,R10,R16,R17,R18,R19,R27,R28,R30,R37,R38,R39,R40,R42","16","10k","","","","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~"
-"R3,R5,R8,R11","4","10","","","","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~"
-"R13","1","0","","","","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~"
-"R14","1","33k","","","","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~"
-"R15","1","20k","","","","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~"
-"R41","1","33","","","","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~"
-"SW1","1","113989","","","","Button_Switch_SMD:Nidec_Copal_CAS-120A","https://www.nidec-components.com/e/catalog/switch/cas.pdf"
-"SW2,SW3,SW4","3","SKRPACE010","","","","Fusoku:SW_SKRPACE010_AAL","~"
-"U1","1","STM32F405RGTx","","","","Package_QFP:LQFP-64_10x10mm_P0.5mm","https://www.st.com/resource/en/datasheet/stm32f405rg.pdf"
-"U2","1","LD1117S25TR_SOT223","","","","Package_TO_SOT_SMD:SOT-223-3_TabPin2","http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf"
-"U3","1","~","","","","Package_TO_SOT_SMD:SOT-89-5",""
-"U4","1","~","","","","Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y",""
-"U5","1","TB6612FNG","","","","Package_SO:SSOP-24_5.3x8.2mm_P0.65mm","https://toshiba.semicon-storage.com/us/product/linear/motordriver/detail.TB6612FNG.html"
-"U6","1","74HC595D","","","","Fusoku:SOIC127P600X175-16N","http://www.ti.com/lit/ds/symlink/sn74hc595.pdf"
+"ID";"指定子";"フットプリント";"数量";"名称";"供給業者、参考資料";
+1;"BAT1";"PinSocket_2x01_P2.00mm_Vertical";1;"Conn_01x02";;;
+2;"C1";"C_1210_3225Metric_Pad1.33x2.70mm_HandSolder";1;"22μ";;;
+3;"C2";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"1.0μ";;;
+4;"C3";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"0.33μ";;;
+5;"C4";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"4.7μ";;;
+6;"C5, C9, C11, C12, C16, C17, C18, C20, C21, C22, C23, C24, C27";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";13;"0.1μ";;;
+7;"C6, C13, C14";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";3;"2.2μ";;;
+8;"C7";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"10n";;;
+9;"C8, C10, C15";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";3;"10μ";;;
+10;"C19";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"1μ";;;
+11;"C25";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"4.7μ";;;
+12;"C26";"C_1206_3216Metric_Pad1.33x1.80mm_HandSolder";1;"100μ";;;
+13;"D1, D2, D3, D4";"LED_D5.0mm_IRGrey";4;"SFH4550";;;
+14;"D5, D7, D8, D9, D10, D11, D12, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";23;"LED";;;
+15;"D6, D13";"D_SOD-123F";2;"MBR130LSFT1G";;;
+16;"FAN1";"JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical";1;"8520モータ";;;
+17;"J1";"PinSocket_2x05_P1.27mm_Vertical_SMD";1;"Conn_02x05_Odd_Even";;;
+18;"J2, J4";"PinHeader_2x04_P1.27mm_Vertical";2;"Conn_02x04_Odd_Even";;;
+19;"J3";"microSD_HC_Molex_47219-2001";1;"47219-2001";;;
+20;"J_L1, J_R1";"PinSocket_2x03_P2.54mm_Vertical";2;"Conn_02x03_Odd_Even";;;
+21;"LS1";"XDCR_SMT-0540-S-R";1;"SMT-0540-S-R";;;
+22;"Q1, Q3, Q5, Q7, Q10";"SOT-23";5;"2N7002K";;;
+23;"Q2, Q4, Q6, Q8";"LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear";4;"ST-1KL3A";;;
+24;"Q9";"SOT-23";1;"AO3407A";;;
+25;"Q12";"SOT-23";1;"AO3400A";;;
+26;"R1, R6, R9, R12, R20, R21, R22, R23, R24, R25, R26, R31, R32, R33, R34, R35, R36, R43, R44, R45, R46, R47, R48, R49, R50, R51, R52";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";27;"560";;;
+27;"R2, R4, R7, R10, R16, R17, R18, R19, R27, R28, R30, R37, R38, R39, R40, R42";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";16;"10k";;;
+28;"R3, R5, R8, R11";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";4;"20";;;
+29;"R13";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"0";;;
+30;"R14";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"33k";;;
+31;"R15";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"20k";;;
+32;"R41";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"33";;;
+33;"SW1";"Nidec_Copal_CAS-120A";1;"113989";;;
+34;"SW2, SW3, SW4";"SW_SKRPACE010_AAL";3;"SKRPACE010";;;
+35;"U1";"LQFP-64_10x10mm_P0.5mm";1;"STM32F405RGTx";;;
+36;"U2";"SOT-223-3_TabPin2";1;"LD1117S25TR_SOT223";;;
+37;"U3";"SOT-89-5";1;"~";;;
+38;"U4";"LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y";1;"~";;;
+39;"U5";"SSOP-24_5.3x8.2mm_P0.65mm";1;"TB6612FNG";;;
+40;"U6, U7";"SOIC127P600X175-16N";2;"74HC595D";;;
